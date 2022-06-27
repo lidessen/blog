@@ -9,6 +9,6 @@ blog({
   background: "#f9f9f9",
   links: [
     { title: "GitHub", url: "https://github.com/aoiste" },
-    { title: "Email", url: "mailto:ztytotoro@outlook.com" },
+    { title: "Email", url: "mailto:aoiste@outlook.com" },
   ],
 });
