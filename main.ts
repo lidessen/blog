@@ -8,7 +8,7 @@ blog({
   author: "ztytotoro",
   background: "#f9f9f9",
   links: [
-    { title: "Email", url: "ztytotoro@outlook.com" },
+    { title: "Email", url: "mailto:ztytotoro@outlook.com" },
     { title: "GitHub", url: "https://github.com/ztytotoro" },
   ],
 });
